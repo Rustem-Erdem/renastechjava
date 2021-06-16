@@ -1,4 +1,4 @@
-package day8;
+package day08;
 /*
 Method               Description                                                      Return Type
 charAt()             Returns the character at the specified index (position)          char
